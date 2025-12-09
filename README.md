@@ -1,6 +1,6 @@
 # Enhancing Visual Re-ranking through Denoising Nearest Neighbor Graph via Continuous CRF
 
-**[ICIP 2025 Spotlight]** Official implementation of the paper: "Enhancing Visual Re-ranking through Denoising Nearest Neighbor Graph via Continuous CRF".
+Official implementation of the paper: "Enhancing Visual Re-ranking through Denoising Nearest Neighbor Graph via Continuous CRF" [ICIP 2025 Spotlight].
 
 ---
 
