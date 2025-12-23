@@ -4,9 +4,6 @@ Official implementation of the paper: "Enhancing Visual Re-ranking through Denoi
 
 ---
 
-## 🚀 Code Release Status
-**The code for this project is currently being organized and will be released shortly.** We are finalizing the clean-up process to ensure reproducibility. Please stay tuned!
-
 
 ## citation
 If you find this work useful for your research, please cite our paper:
