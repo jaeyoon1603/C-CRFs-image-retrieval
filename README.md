@@ -3,7 +3,16 @@
 Official implementation of the paper: "Enhancing Visual Re-ranking through Denoising Nearest Neighbor Graph via Continuous CRF" [ICIP 2025 Spotlight].
 
 ---
-
+## Dependencies
+The code requires the following Python packages:
+* pytorch
+* sciPy
+* joblib
+* tqdm
+* faiss
+* urllib
+## Usage
+To reproduce the results, simply run the `main.py` script. It will automatically download the features and perform the evaluation.
 
 ## citation
 If you find this work useful for your research, please cite our paper:
